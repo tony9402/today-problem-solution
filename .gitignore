@@ -1,6 +1,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/vim,macos,python,java,c++,visualstudiocode,windows,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=vim,macos,python,java,c++,visualstudiocode,windows,linux
 
+# cph
+.cph/
+
+*.bin
+
 ### C++ ###
 # Prerequisites
 *.d
